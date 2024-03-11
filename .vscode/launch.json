@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: TFHRES.CLI",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\TFHRES.CLI\\TFHRES.CLI.csproj",
+            "launchConfigurationId": "TargetFramework=;TFHRES.CLI"
+        }
+    ]
+}
